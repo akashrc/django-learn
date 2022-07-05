@@ -1,0 +1,23 @@
+django-admin startproject name
+
+python manage.py makemigrations
+python manage.py migrate
+
+python manage.py startapp appName
+
+app ko register in project setting,
+static/template dir django search to set,
+
+create URLs in project and app,
+
+
+
+
+
+python manage.py runserver
+
+
+//create user
+python manage.py createsuperuser
+
+
