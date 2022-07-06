@@ -20,4 +20,6 @@ python manage.py runserver
 //create user
 python manage.py createsuperuser
 
-
+//venv
+python -m venv proj_env 
+proj_env\Scripts\activate
